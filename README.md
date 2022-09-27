@@ -54,6 +54,7 @@ The following is a list of steps and instructions on how to complete this guided
   - `git rebase --continue`
   - You will be presented with a commit message prompt in an editor. The commit message should be the message from the last commit on your branch. Save this file and close it. (In the vi editor simply hold shift and press zz [ZZ])
   - you should see the following message from git
+
 ```
 > git rebase --continue
 [detached HEAD 4b461e1] add my name
@@ -64,3 +65,5 @@ Successfully rebased and updated refs/heads/merge-conflict.
 Nice job!! You've walked thru the process of dealing with a merge conlict. You can apply this process to all merges and the only difference will be that step 7 may have more lines of code or files to be resolved.
 
 ### Bernie Durfee
+
+### Space Ghost
